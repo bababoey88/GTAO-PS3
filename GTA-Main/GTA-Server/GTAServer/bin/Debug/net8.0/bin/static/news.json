@@ -1,0 +1,18 @@
+[
+    {
+        "gm.evt": {
+            "e": "news",
+            "d": {
+                "ts": 1637085446,
+                "exp": 1735754248,
+                "t": [
+					"newswire",
+                    "transition"
+                ],
+                "k": "custom",
+				"p":1,
+				"sk": "test1234"
+            }
+        }
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "types": ["newswire", "transition"],
+  "date": 1387887192,
+  "headline": "BABABOEY",
+  "subtitle": "Welcome",
+  "content": "Welcome to the bababoey project.",
+  "url": "www.rockstargames.com/GTAOnline",
+  "image": {
+    "path": "bababoey.dds",
+    "filesize": 262272
+  },
+  "landscape": {
+    "path": "bababoey.dds",
+    "filesize": 262272
+  }
+}
