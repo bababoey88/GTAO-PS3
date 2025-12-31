@@ -388,6 +388,7 @@ namespace GTAServer
                         ["_n"] = title,
                         ["_l"] = language,
                         ["_rci"] = contentId,
+                        ["_un"] = member.gamertag,
                         ["da"] = compactedMission,
                         ["de"] = string.IsNullOrEmpty(description)
                             ? "<![CDATA[]]>"
@@ -681,3 +682,4 @@ namespace GTAServer
         }
     }
 }
+
