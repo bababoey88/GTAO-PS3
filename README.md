@@ -1,4 +1,4 @@
-# GTABababoey
+# Due to all the skids this repository will not recieve any more updates
 
 This project aims to build a functional GTA Online server. The main goal is to **get contributions from the community** and **implement all endpoints** so the server can run properly.
 
